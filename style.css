@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+#slot span {
+  font-size: 40px;
+  margin: 0 10px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+}
